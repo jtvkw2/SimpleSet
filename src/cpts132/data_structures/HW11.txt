@@ -1,0 +1,15 @@
+Jacob Voyles
+HW11 - Standard
+
+1. The first thing I did was try and implement methods and Node class to create a standard BST
+
+2. The toString method works well, but I think there might have been an easier way to implement all of the different
+    traversals and extract common code
+
+3. The thing that supprised me the most was trying to come up with a singular string for all of the traversals. I
+    settled on a singular string that gets added to with each method call.
+
+4. The most important thing I learned was finding a good way to print an object using charAt method.
+
+5. Right now, my tree assumes that all given inputs will be an integer, using a value and key for each node would solve
+    this problem, but then I wouldn't be implementing the interface without chaging it.
